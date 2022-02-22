@@ -4,10 +4,10 @@
 A box app created with React Native.
 
 Containes:
-1) [Tic Tac Tok Game](Tic-Tac-Tok-Game)
-2) [Todo List App](Todo-List-App)
-3) [Simple Counter App](Simple-Counter-App)
-4) [Random Number Generator App](Random-Number-Generator-App)
+1) [Tic Tac Tok Game](#tic-tac-tok-game)
+2) [Todo List App](#todo-list-app)
+3) [Simple Counter App](#simple-counter-app)
+4) [Random Number Generator App](#random-number-generator-app)
 
 ## Tic Tac Tok Game
 
